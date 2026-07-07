@@ -1,4 +1,3 @@
-# Social-Media-Sentiment-Analyzer-using-NLP
 # 📊 Social Media Sentiment Analyzer Using NLP
 
 A Machine Learning and Deep Learning based web application that analyzes social media text and classifies it into **Positive**, **Negative**, or **Neutral** sentiments. The project compares multiple NLP models to identify the best-performing algorithm for sentiment classification.
